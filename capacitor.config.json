@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Test Ionic Framwork",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
